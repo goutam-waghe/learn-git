@@ -6,6 +6,11 @@
 
 }
 
+@font-face {
+    font-family: buttermilk;
+    src: url(Buttermilk.woff);
+}
+
 body {
     display: flex;
     justify-content: center;
